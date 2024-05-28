@@ -7,7 +7,7 @@ const openSans = Open_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "GeA Docs",
-  description: "Uma documentação simples e provisória da GeA Habblive.",
+  description: "Uma documentação simples da GeA Habblive.",
 };
 
 export default function RootLayout({
