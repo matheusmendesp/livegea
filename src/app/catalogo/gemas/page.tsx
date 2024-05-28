@@ -8,8 +8,6 @@ import { CatalogItem } from "@/components/catalog/CatalogItem";
 import gemas from "@/assets/rares/gemasandpixels/gemas.png";
 import pixels from "@/assets/rares/gemasandpixels/pixels.png";
 
-
-
 export default function Pisos() {
   const catalogItems = [
     {
@@ -29,9 +27,7 @@ export default function Pisos() {
   return (
     <CustomCard variant="outlined">
       <Heading>Gemas e Pixels</Heading>
-
       <Divider sx={{ marginTop: 2, marginBottom: 4 }} />
-
       <div
         className="grid grid-cols-3 gap-4
       max-sm:grid-cols-2

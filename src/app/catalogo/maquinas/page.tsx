@@ -11,7 +11,6 @@ import maquina3 from "@/assets/rares/maquinas/maquina3.png";
 import maquina4 from "@/assets/rares/maquinas/maquina4.png";
 import maquina5 from "@/assets/rares/maquinas/maquina5.png";
 
-
 export default function Maquinas() {
   const catalogItems = [
     {
@@ -49,9 +48,7 @@ export default function Maquinas() {
   return (
     <CustomCard variant="outlined">
       <Heading>Máquinas</Heading>
-
       <Divider sx={{ marginTop: 2, marginBottom: 4 }} />
-
       <div
         className="
         grid grid-cols-3 gap-4

@@ -11,7 +11,6 @@ import brown from "@/assets/rares/tamandua/marrom.png";
 import black from "@/assets/rares/tamandua/preto.png";
 import green from "@/assets/rares/tamandua/verde.png";
 
-
 export default function Tamandua() {
   const catalogItems = [
     {

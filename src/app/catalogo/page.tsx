@@ -4,7 +4,6 @@ import { CustomCard } from "@/components/mui/Card";
 
 import logo from "@/assets/logo-da-gea.gif";
 import { Divider } from "@mui/material";
-import Link from "next/link";
 
 export default function CatalogoHomePage() {
   return (
