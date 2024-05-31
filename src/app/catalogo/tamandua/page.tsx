@@ -22,7 +22,7 @@ export default function Tamandua() {
     {
       image: brown.src,
       price: 100,
-      title: "Amarelo",
+      title: "Marrom",
       furniName: "rare_prize22_0",
     },
     {

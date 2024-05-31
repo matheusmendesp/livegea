@@ -13,13 +13,13 @@ export default function Pisos() {
     {
       image: gemas.src,
       price: 100,
-      title: "Gemas",
+      title: "50 Gemas",
       furniName: "Gemas",
     },
     {
       image: pixels.src,
       price: 100,
-      title: "Pixels",
+      title: "100 Pixels",
       furniName: "Pixels",
     },
   ];
